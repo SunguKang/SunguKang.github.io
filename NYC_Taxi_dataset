@@ -3,7 +3,12 @@ The yello NYC_taxi_data can be founded in this link [https://chriswhong.github.i
 
 The visualization of data set shows the data of single random taxi where they drive, how much they earn in details(tips, tax etcs..) in NYC in one day over 24 hour.
 This data can be used by many applicants and very usefel, the applicants could be as below.
-1.current taxi driver: They can make a schedule by analyingwhere to go to get a lot of customer and what time is the best 
+
+1. current taxi driver : They can make a schedule by analying the data, where to go to get a lot of customer and what time is the best time to have more customers than other time,
+for instance, 1am until 6am, there were less people using taxi than day time.
+
+2. Automobile navigation team, live data team, goverment traffic team: By analyzing the data, they will find the places with a lot of traffic in specific time, so with this data,
+they can focus on the specific location at the specific time to improve the traffic to make better driving environment.
                                                   
                                                      
                                                   
